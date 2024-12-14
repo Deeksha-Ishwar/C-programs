@@ -3,7 +3,9 @@
 #include<stdbool.h> 
 int main(){
     int num,i;
-    int isPrime=true; //assuming user entered number is a prime number
+    //assuming user entered number is a prime number
+    int isPrime=true; 
+    //input from the user
     printf("Enter the num:- ");
     scanf("%d",&num);
     if(num<1){
