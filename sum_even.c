@@ -11,6 +11,6 @@ int main(){
         i++;
       
     }
-printf("Sum of all even numbers from 1 to %d is %d",num,sum);
+printf("Sum of allll even numbers from 1 to %d is %d",num,sum);
     return 0; 
 }
