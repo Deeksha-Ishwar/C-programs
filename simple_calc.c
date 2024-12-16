@@ -2,11 +2,11 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    char operator;
+    char operator; 
     float num1;
     float num2;
     float result;
-    printf("Enter the operator(+ - * /):- ");
+    printf("Enter the operator(+ - * /):- "); //input from the user
     scanf("%c",&operator);
     printf("Enter the first number:- ");
     scanf("%f",&num1);
